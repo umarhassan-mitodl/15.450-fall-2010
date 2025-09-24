@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "cc32694d-c34f-b89e-6b71-85f7f51c562a",
+  "instructors": {
+    "content": [
+      "2a920d53-dbe9-88c6-b868-8668876838fb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "45ef6e83-d4fc-a4e1-774e-5ab314481824",
+    "website": "15-450-analytics-of-finance-fall-2010"
+  },
+  "course_title": "Analytics of Finance",
+  "course_description": "This course covers the key quantitative methods of finance: financial econometrics and statistical inference for financial applications; dynamic optimization; Monte Carlo simulation; stochastic (It\u00f4) calculus. These techniques, along with their computer implementation, are covered in depth. Application areas include portfolio management, risk management, derivatives, and proprietary trading.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.450",
+  "course_image_thumbnail": {
+    "content": "0447390d-cacc-5b43-5f2e-46f101398bda",
+    "website": "15-450-analytics-of-finance-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Exams"
+  ],
+  "site_uid": "5b4e9881-e68f-438f-aaa7-23a6c95424c4",
+  "site_short_id": "15.450-fall-2010",
+  "site_url_path": "courses/15-450-analytics-of-finance-fall-2010",
+  "title": "Course Metadata"
+}
